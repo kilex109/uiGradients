@@ -8,6 +8,10 @@
         "colors": ["#9400D3", "#4B0082"]
     }, 
     {
+        "name": "Govno",
+        "colors": ["#964B00", "#964B00"]
+    }, 
+    {
         "name": "Purple",
         "colors": ["#c84e89", "#F15F79"]
     },
